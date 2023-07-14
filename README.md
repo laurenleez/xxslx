@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hello%20world&fontSize=90&animation=fadeIn&fontAlignY=38&desc=my%20little%20projects!&descAlignY=54&descAlign=68)
 
-####  :wave: Welcome my github profile !
+####  :wave: hello world !
 
   
  <br/>
