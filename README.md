@@ -1,6 +1,10 @@
 <div align="center">
+
+
+
+
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hello%20world&fontSize=90&animation=fadeIn&fontAlignY=38&desc=my%20little%20projects!&descAlignY=54&descAlign=68)
+![xxslx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxslx&show_icons=true&theme=radical)
 
 ####  :wave: hello world !
 
@@ -23,6 +27,7 @@
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 </div>
 
 
